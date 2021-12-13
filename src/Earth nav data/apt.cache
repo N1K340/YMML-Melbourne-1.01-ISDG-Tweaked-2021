@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<apt sam="true" revision="6" sam_path="D:\Steam\steamapps\common\X-Plane 11\Custom Scenery\YMML Melbourne 1.01 (ISDG)\sam.xml">
+	<plugin_config sam="2.2.9" WorldJetways="1.0.4" />
+	<airport name="Melbourne Intl" icao="YMML" iata="MEL" elevation="433" latitude="-37.673333333000002" longitude="144.843333333">
+		<startup_location latitude="-37.677460359999998" longitude="144.84493773" heading="81.5" name="G54" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.677167500000003" longitude="144.84497823000001" heading="35.899999999999999" name="G54A" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.677074310000002" longitude="144.84486461" heading="81.799999999999997" name="G56" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.675897900000002" longitude="144.84452507" heading="217.59999999999999" name="G57C" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.676163860000003" longitude="144.84441604" heading="295.5" name="G60C" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.6764473" longitude="144.84481728" heading="355.89999999999998" name="G60E" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.666763009999997" longitude="144.85244488999999" heading="261.80000000000001" name="Gate B25" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.669434680000002" longitude="144.84384839000001" heading="43.600000000000001" name="D14" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.671252780000003" longitude="144.84584226999999" heading="33.799999999999997" name="E8A" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.666545409999998" longitude="144.85154277999999" heading="82" name="Gate B 30" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.668271429999997" longitude="144.85007082999999" heading="261.80000000000001" name="C1" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.6681685" longitude="144.84360308999999" heading="81.099999999999994" name="D18B" airline_code="" type="gate" width_code="f" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.665522330000002" longitude="144.84582631999999" heading="351" name="Gate D 15" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.667951649999999" longitude="144.85259327" heading="262" name="Gate B 21" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.668151080000001" longitude="144.85182577" heading="82" name="Gate B 22" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.667326639999999" longitude="144.85245732000001" heading="261.39999999999998" name="Gate B 23" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.667738499999999" longitude="144.85178884999999" heading="82" name="Gate B 24" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.666787069999998" longitude="144.84912165" heading="82" name="Gate C 10" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.666359290000003" longitude="144.84943842999999" heading="221.59999999999999" name="Gate C 11" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.666483309999997" longitude="144.84898396" heading="164.59999999999999" name="Gate C 12" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.66796883" longitude="144.84935055" heading="80.5" name="Gate C 4" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.666936759999999" longitude="144.84984184999999" heading="259.69999999999999" name="Gate C 7" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.667178989999996" longitude="144.84920783000001" heading="82" name="Gate C 8" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.66652603" longitude="144.84974403999999" heading="262" name="Gate C 9" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.665592099999998" longitude="144.84484365" heading="351" name="Gate D 13" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.668951810000003" longitude="144.84374170000001" heading="82.099999999999994" name="Gate D 16" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.669412299999998" longitude="144.84751335000001" heading="34.799999999999997" name="Gate D 2" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.668483029999997" longitude="144.84730418000001" heading="-118.3" name="Gate D 3" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.669162739999997" longitude="144.84586723000001" heading="3.1000000000000001" name="Gate D 6" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.667373359999999" longitude="144.84701028999999" heading="213.59999999999999" name="Gate D 7" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.667590529999998" longitude="144.84646591000001" heading="172" name="Gate D 9" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.671225309999997" longitude="144.84537383" heading="352" name="Gate E 10" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.670749280000003" longitude="144.84675791999999" heading="171.80000000000001" name="Gate E 3" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.671353959999998" longitude="144.84765557" heading="10.4" name="Gate E2" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.671109309999999" longitude="144.84721827000001" heading="27.699999999999999" name="Gate E 4" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.670802109999997" longitude="144.84626202000001" heading="172" name="Gate E 5" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.671164189999999" longitude="144.84582674999999" heading="351.10000000000002" name="Gate E 8" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.670875440000003" longitude="144.84526443999999" heading="-178.69999999999999" name="Gate E 9" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.67330449" longitude="144.84795241" heading="23" name="Gate F 12" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.67268172" longitude="144.84715613" heading="172" name="Gate F 13" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.67276116" longitude="144.84662308" heading="172" name="Gate F 15" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.672811580000001" longitude="144.84615325999999" heading="172" name="Gate F 17" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.686503500000001" longitude="144.85399317" heading="258.5" name="South Cargo Ramp 4" airline_code="" type="misc" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+		</startup_location>
+		<startup_location latitude="-37.687800600000003" longitude="144.85420386999999" heading="263.10000000000002" name="South GA Ramp 2" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.687152060000003" longitude="144.85408498000001" heading="259.89999999999998" name="South GA Ramp 3" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.672737329999997" longitude="144.84769216999999" heading="172" name="F11" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.676072210000001" longitude="144.84842724999999" heading="351.80000000000001" name="G42" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.676167839999998" longitude="144.84750672999999" heading="351.5" name="G46" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.676416699999997" longitude="144.84674077" heading="36.200000000000003" name="G50" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.678236329999997" longitude="144.84870457" heading="171.19999999999999" name="H1" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.678347340000002" longitude="144.847914" heading="171.19999999999999" name="H2" airline_code="" type="gate" width_code="f" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.67831468" longitude="144.84730322999999" heading="128.5" name="H3" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673686410000002" longitude="144.84424232000001" heading="37.100000000000001" name="F24B" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673236080000002" longitude="144.84719311999999" heading="352.5" name="F14" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.672605320000002" longitude="144.84673244000001" heading="171.09999999999999" name="F15A" airline_code="" type="gate" width_code="b" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="-37.673408019999997" longitude="144.84627814000001" heading="352.5" name="F18" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673444789999998" longitude="144.84581188999999" heading="351.69999999999999" name="F20" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673137400000002" longitude="144.84500076" heading="171.80000000000001" name="F21A" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673583469999997" longitude="144.84505664" heading="351.80000000000001" name="F22" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673552659999999" longitude="144.84520666" heading="346.5" name="F22A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673112799999998" longitude="144.84423785999999" heading="116.40000000000001" name="F25" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.672869400000003" longitude="144.84400133" heading="128.69999999999999" name="F25A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673112250000003" longitude="144.84412888" heading="82.099999999999994" name="F25B" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673598419999998" longitude="144.84402499999999" heading="81.799999999999997" name="F24A" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.673738120000003" longitude="144.84489187" heading="6.7000000000000002" name="F22B" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.675260299999998" longitude="144.84837994" heading="171.19999999999999" name="G41" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.675316770000002" longitude="144.84743223000001" heading="170.90000000000001" name="G45" airline_code="" type="gate" width_code="d" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.675475820000003" longitude="144.84697707000001" heading="171.40000000000001" name="G47" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.675337849999998" longitude="144.84640318000001" heading="171.90000000000001" name="G49" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.676078080000003" longitude="144.846765" heading="81.799999999999997" name="G52" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="-37.676179089999998" longitude="144.84798047000001" heading="352.19999999999999" name="G44" airline_code="" type="gate" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+		</startup_location>
+	</airport>
+</apt>

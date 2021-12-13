@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings +2
+TEXTURE_NOWRAP max36.dds
+SURFACE asphalt
+SCALE 4 4
+
+DECAL_LIB  lib/g10/decals/apt_markings3.dcl
